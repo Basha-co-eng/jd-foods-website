@@ -1,0 +1,154 @@
+{
+  "sweets": [
+    {
+      "name": "Boondi Laddu",
+      "price": 320,
+      "unit": "kg",
+      "image": "../images/sweets/boondi-laddu.jpg"
+    },
+    {
+      "name": "Raagi Dry Fruits Laddu",
+      "price": 400,
+      "unit": "kg",
+      "image": "../images/sweets/raagi-dry-fruits-laddu.jpg"
+    },
+    {
+      "name": "Jonna Laddu",
+      "price": 350,
+      "unit": "kg",
+      "image": "../images/sweets/jonna-laddu.jpg"
+    },
+    {
+      "name": "Nuvvula Laddu",
+      "price": 450,
+      "unit": "kg",
+      "image": "../images/sweets/nuvvula-laddu.jpg"
+    },
+    {
+      "name": "Ghee Sunnundalu",
+      "price": 500,
+      "unit": "kg",
+      "image": "../images/sweets/ghee-sunnundalu.jpg"
+    },
+    {
+      "name": "Bellam Gavvalu",
+      "price": 350,
+      "unit": "kg",
+      "image": "../images/sweets/bellam-gavvalu.jpg"
+    },
+    {
+      "name": "Premium Dry Fruits Laddu",
+      "price": 1200,
+      "unit": "kg",
+      "image": "../images/sweets/premium-dry-fruits-laddu.jpg"
+    },
+    {
+      "name": "Aviseginjalu Laddu",
+      "price": 550,
+      "unit": "kg",
+      "image": "../images/sweets/aviseginjalu-laddu.jpg"
+    },
+    {
+      "name": "Chalimidi",
+      "price": 300,
+      "unit": "kg",
+      "image": "../images/sweets/chalimidi.jpg"
+    }
+  ],
+
+  "snacks": [
+    {
+      "name": "Kajji Kayalu",
+      "price": 15,
+      "unit": "piece",
+      "image": "../images/snacks/kajji-kayalu.jpg"
+    },
+    {
+      "name": "Ariselu",
+      "price": 15,
+      "unit": "piece",
+      "image": "../images/snacks/ariselu.jpg"
+    },
+    {
+      "name": "Chakralu",
+      "price": 300,
+      "unit": "kg",
+      "image": "../images/snacks/chakralu.jpg"
+    },
+    {
+      "name": "Minapa Chakralu",
+      "price": 300,
+      "unit": "kg",
+      "image": "../images/snacks/minapa-chakralu.jpg"
+    },
+    {
+      "name": "Raagi Chakralu",
+      "price": 350,
+      "unit": "kg",
+      "image": "../images/snacks/raagi-chakralu.jpg"
+    },
+    {
+      "name": "Jonna Chakralu",
+      "price": 350,
+      "unit": "kg",
+      "image": "../images/snacks/jonna-chakralu.jpg"
+    },
+    {
+      "name": "Beetroot Chakralu",
+      "price": 350,
+      "unit": "kg",
+      "image": "../images/snacks/beetroot-chakralu.jpg"
+    },
+    {
+      "name": "Karam Gavvalu",
+      "price": 300,
+      "unit": "kg",
+      "image": "../images/snacks/karam-gavvalu.jpg"
+    },
+    {
+      "name": "Palli Pakoda",
+      "price": 300,
+      "unit": "kg",
+      "image": "../images/snacks/palli-pakoda.jpg"
+    }
+  ],
+
+  "spices": [
+    {
+      "name": "Mungaku Karam",
+      "price": 150,
+      "unit": "200gm",
+      "image": "../images/spices/mungaku-karam.jpg"
+    },
+    {
+      "name": "Vellulli Karam",
+      "price": 150,
+      "unit": "200gm",
+      "image": "../images/spices/vellulli-karam.jpg"
+    },
+    {
+      "name": "Kobbari Karam",
+      "price": 150,
+      "unit": "200gm",
+      "image": "../images/spices/kobbari-karam.jpg"
+    },
+    {
+      "name": "Putnala Karam",
+      "price": 150,
+      "unit": "200gm",
+      "image": "../images/spices/putnala-karam.jpg"
+    },
+    {
+      "name": "Mungaku Podi",
+      "price": 150,
+      "unit": "200gm",
+      "image": "../images/spices/mungaku-podi.jpg"
+    },
+    {
+      "name": "Chicken Chutney",
+      "price": 1000,
+      "unit": "kg",
+      "image": "../images/spices/chicken-chutney.jpg"
+    }
+  ]
+}
