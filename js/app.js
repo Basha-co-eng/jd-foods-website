@@ -202,7 +202,7 @@ Pincode: ${pincode}
 `;
 
     const whatsappURL =
-`https://wa.me/8500784149?text=${encodeURIComponent(message)}`;
+`https://wa.me/918500784149?text=${encodeURIComponent(message)}`;
 
     window.open(
         whatsappURL,
